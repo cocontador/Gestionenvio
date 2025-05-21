@@ -18,4 +18,5 @@ public class Proveedor {
     private String rut;
     private String direccion;
     private String contacto;
+    private int num;
 }
