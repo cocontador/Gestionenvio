@@ -19,4 +19,5 @@ public class Proveedor {
     private String direccion;
     private String contacto;
     private int num;
+    private double cod;
 }
